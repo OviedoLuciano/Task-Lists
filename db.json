@@ -2,8 +2,20 @@
   "tasks": [
     {
       "id": 1,
-      "text": "Terminar módulo de Angular",
-      "day": "26 de Febrero",
+      "text": "Decirle feliz cumple a Anu",
+      "day": "Lunes 28 de Febrero",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Ir a ver a Talleres",
+      "day": "Lunes 28 Febrero",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Limpiar el Depto",
+      "day": "Lunes 28 de Febrero",
       "reminder": true
     }
   ]
