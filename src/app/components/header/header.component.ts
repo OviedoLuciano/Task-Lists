@@ -10,7 +10,7 @@ import {Router} from '@angular/router';
 export class HeaderComponent implements OnInit {
 
 
-  title:string = 'My Task List';
+  title:string = 'Lista de tareas';
 showAddTask:boolean = true;
 subscription?: Subscription;
  

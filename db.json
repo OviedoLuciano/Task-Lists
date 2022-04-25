@@ -1,22 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Decirle feliz cumple a Anu",
-      "day": "Lunes 28 de Febrero",
-      "reminder": true
+      "id": 4,
+      "text": "Comer Burguers",
+      "day": "Ahora",
+      "reminder": false
     },
     {
-      "id": 2,
-      "text": "Ir a ver a Talleres",
-      "day": "Lunes 28 Febrero",
-      "reminder": true
-    },
-    {
-      "id": 3,
-      "text": "Limpiar el Depto",
-      "day": "Lunes 28 de Febrero",
-      "reminder": true
+      "id": 5,
+      "text": "Ir a Apross",
+      "day": "Mañana 10 am",
+      "reminder": false
     }
   ]
 }
